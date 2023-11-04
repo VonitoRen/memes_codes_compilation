@@ -1,0 +1,33 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+   
+}
+
+form{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-left:  auto;
+    margin-right: auto;
+    margin-top: 20%;
+    width: 200px;
+    flex-direction: column;
+    border: 1px solid black;
+    padding: 50px;
+    gap: .25em;
+ 
+}
+
+button{
+    margin-top: 1em;
+    padding: .25em;
+}
+
+input{
+    padding: .5em;
+    height: 50em;
+}
+
+#submit-btn:hover{
+    
+}
